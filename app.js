@@ -5,7 +5,7 @@ app.use(express.static("./public"));
 
 app.get("/", function (request, response) {
   // console.log(response);
-  response.send("<h1>ni HOWWWWDY BRO</h1>");
+  response.send("<h1>HOWWWWDY BRO</h1>");
 });
 
 app.use(function (request, response) {
