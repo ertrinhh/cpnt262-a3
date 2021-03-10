@@ -2,12 +2,7 @@ const path = require("path");
 const express = require("express");
 const app = express();
 
-app.use(express.static("./public"));
-
-app.get("/", function (request, response) {
-  // console.log(response);
-  response.send("<h1>HOWWWWDY BRO</h1>");
-});
+app.use(express.static(path.join(__dirname, public)));
 
 app.use(function (request, response) {
   response.status(404);
