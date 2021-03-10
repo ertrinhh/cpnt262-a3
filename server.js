@@ -9,7 +9,7 @@ app.use(function (request, response) {
   response.send("404: File IS LITERALLY NOT THERE OK");
 });
 
-const port = process.env.port || 3000;
-app.listen(port, function () {
-  console.log(`listening on port: ${port}`);
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, function () {
+  console.log(`listening on port: ${PORT}`);
 });
