@@ -12,5 +12,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+    //did not use dotenv, not crutial to assignment says Tony
   }
 }
