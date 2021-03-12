@@ -3,7 +3,7 @@
 # Erica Trinh
 
 - Github Links
-  - [GitHub Repo](https://github.com/ertrinhh/express-practice)
+  - [GitHub Repo](https://github.com/ertrinhh/cpnt262-a3)
   - [Heroku Page](https://congee-gallery.herokuapp.com/)
 
 ## Assignment 3: Deployed Static Express Website
