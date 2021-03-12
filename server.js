@@ -6,7 +6,7 @@ const app = express();
 //use project in public folder
 app.use(express.static(path.join(__dirname, "public")));
 
-//create 404 page 
+//create 404 page
 app.use(function (request, response) {
   response.status(404);
   response.sendFile(__dirname, "/404.html");

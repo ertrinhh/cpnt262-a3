@@ -18,5 +18,5 @@ Cry Club - Ellie, Kyle, Karen
 
 ## Attributions
 
-[Slide in image caption](https://css-tricks.com/slide-in-image-captions/)
-[404 Page design](https://www.bittbox.com/inspiration/37-404-error-page-designs)
+- [Slide in image caption](https://css-tricks.com/slide-in-image-captions/)
+- [404 Page design](https://www.bittbox.com/inspiration/37-404-error-page-designs)
